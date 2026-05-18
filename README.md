@@ -1,3 +1,3 @@
-Nombre: Jorge Exequiel Lazarte
-Comision: 2
-N°Legajo:63280
+Nombre: Jorge Exequiel Lazarte||
+Comision: 2||
+N°Legajo:63280||
